@@ -10,7 +10,7 @@
  *  Also used by SheetSetup.gs as the default ID to format or the ID to update if a new sheet is made.
  *  IMPORTANT: USER MUST UPDATE THIS VALUE if not allowing dynamic creation.
  */
-const MASTER_RESUME_SPREADSHEET_ID = "1FmsiLee476IwW4atDs3I_E017MX4LFkGNvyoo1U7D0w"; // << REPLACE WITH YOUR ACTUAL SPREADSHEET ID or let SheetSetup create one
+const MASTER_RESUME_SPREADSHEET_ID = ""; // << REPLACE WITH YOUR ACTUAL SPREADSHEET ID or let SheetSetup create one
 
 /** 
  * @const {string} The name of the sheet tab within MASTER_RESUME_SPREADSHEET_ID 
